@@ -25,4 +25,5 @@ yarn start  #yarn으로 install 한 경우
 ```
 
 ### 적용 결과!
-<img width="1552" alt="image" src="https://github.com/user-attachments/assets/a1009ce0-33d4-423b-ada9-42d3e35e96f4" />
+<img width="1552" alt="image" src="https://github.com/user-attachments/assets/400c5862-86ec-461e-916d-3af37cc1939f" />
+
