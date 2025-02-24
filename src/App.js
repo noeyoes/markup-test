@@ -1,16 +1,11 @@
-import '@toast-ui/editor/dist/toastui-editor.css';
-import { Editor } from '@toast-ui/react-editor';
+import MarkupEditor from "./components/markupEditor";
+import "./App.css";
 
 function App() {
     return (
         <div className="App">
-            <Editor
-                initialValue="hello react editor world!"
-                previewStyle="vertical"
-                height="600px"
-                initialEditType="markdown"
-                useCommandShortcut={true}
-            />
+            <h2>introduction</h2>
+            <MarkupEditor />
         </div>
     );
 }
